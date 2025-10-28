@@ -5,6 +5,8 @@ This project replicates the layout and design of the Amazon homepage to practice
 
 ---
 
+# Live Demo
+https://github.com/IshuNishu/Amazon-clone-project.git
 
 ##  Features
 
@@ -20,6 +22,16 @@ This project replicates the layout and design of the Amazon homepage to practice
 
 - **HTML5** – for structure  
 - **CSS3** – for styling and layout  
+
+---
+
+# Screenshots
+<img width="1359" height="625" alt="Screenshot 2025-10-28 155734" src="https://github.com/user-attachments/assets/96690715-4cf9-4479-af0d-5c25b6fda949" />
+
+<img width="1348" height="626" alt="Screenshot 2025-10-28 160434" src="https://github.com/user-attachments/assets/4d14d29a-efb7-405f-a863-801ee6144e29" />
+
+<img width="1345" height="636" alt="Screenshot 2025-10-28 160535" src="https://github.com/user-attachments/assets/54d211bb-d69f-4078-985c-e7a4d5faa977" />
+
 
 ---
 
