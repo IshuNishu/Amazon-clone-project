@@ -81,4 +81,4 @@ Learned to replicate real-world UI designs
 Nisha Kumari Singh
  GitHub
  LinkedIn
- your.email@example.com
+ nisha0693@gmail.com
